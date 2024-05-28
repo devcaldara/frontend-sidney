@@ -1,0 +1,14 @@
+#container-lista-cliente li span{
+    display: flex;
+    width: 350px;
+}
+#container-lista-cliente li{
+    list-style-type: none;
+    display: flex;
+    border-bottom: 1px solid #fff;
+    height: 45px;
+}
+
+#container-lista-cliente li span.gerenciar{
+    width: 50px;
+}
